@@ -1,4 +1,4 @@
-## Alferd + D&D Beyond
+## Alfred + D&D Beyond
 
 Quickly open search queries in your default browser from Alfred.
 
